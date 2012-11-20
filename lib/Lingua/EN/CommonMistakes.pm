@@ -6,7 +6,7 @@ use warnings FATAL => 'all';
 use warnings::register;
 use Carp;
 
-our $VERSION = 20121120;
+our $VERSION = 20121121;
 
 my %MISTAKES;
 
@@ -167,9 +167,6 @@ needed, as in the following example:
   # one map for common mistakes, another for british->american only
   use Lingua::EN::CommonMistakes qw(%MISTAKES_COMMON);
   use Lingua::EN::CommonMistakes qw(:no-defaults :american %MISTAKES_GB_TO_US);
-
-A list of functions that can be exported.  You can delete this section
-if you don't export anything, such as for a purely object-oriented module.
 
 =head1 WHY?
 
