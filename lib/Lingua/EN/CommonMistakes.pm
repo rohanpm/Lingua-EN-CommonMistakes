@@ -1974,6 +1974,7 @@ shemes schemes
 shorctut shortcut
 shorctuts shortcuts
 shoud should
+shuld should
 shure sure
 similarily similarly
 similiarly similarly
