@@ -1743,6 +1743,8 @@ programme program
 programmes programs
 programm program
 programms programs
+projet project
+projets projects
 promiscousness promiscuousness
 promiscous promiscuous
 promped prompted
