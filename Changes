@@ -1,5 +1,12 @@
 Revision history for Lingua-EN-CommonMistakes
 
+20121219    2012-12-19
+
+  - Fixed various British -> American corrections wrongly included in the
+    base set of corrections (mostly of the form *sation -> *zation,
+    e.g. "optimisation").
+  - Added 2 new corrections
+
 20121120    2012-11-20
 
   - Initial release
