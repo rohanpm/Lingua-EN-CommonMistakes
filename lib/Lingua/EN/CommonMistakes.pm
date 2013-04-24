@@ -792,6 +792,7 @@ delaring declaring
 delemiter delimiter
 deleteing deleting
 demonsrative demonstrative
+deniel denial
 denstiy density
 depencies dependencies
 depency dependency
