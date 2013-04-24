@@ -841,6 +841,7 @@ determins determines
 detremined determined
 detremine determine
 detremines determines
+detroy destroy
 detructor destructor
 devellop develop
 develloped developed
