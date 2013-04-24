@@ -756,10 +756,6 @@ custimizable customizable
 custimization customization
 custimize customize
 custimized customized
-customisable customizable
-customisation customization
-customise customize
-customised customized
 cutsom custom
 cutt cut
 cutted cut
@@ -2342,6 +2338,10 @@ behavior behaviour
 center centre
 color colour
 colors colours
+customizable customisable
+customization customisation
+customize customise
+customized customised
 favor favour
 favorable favourable
 favorite favourite
@@ -2399,6 +2399,10 @@ behaviour behavior
 centre center
 colour color
 colours colors
+customisable customizable
+customisation customization
+customise customize
+customised customized
 favour favor
 favourable favorable
 favourite favorite
