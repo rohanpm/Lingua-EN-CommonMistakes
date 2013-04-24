@@ -1259,7 +1259,6 @@ informatation information
 informatiom information
 informationon information
 informations information
-infos information
 infromation information
 inifity infinity
 inital initial
