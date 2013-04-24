@@ -571,8 +571,6 @@ catalogues catalogs
 catched caught
 cencel cancel
 ceneration generation
-centralise centralize
-centralised centralized
 challange challenge
 challanges challenges
 changable changeable
@@ -2339,6 +2337,8 @@ acknowledgments acknowledgements
 analyze analyse
 analyzes analyses
 behavior behaviour
+centralize centralise
+centralized centralised
 center centre
 color colour
 colors colours
@@ -2401,6 +2401,8 @@ analyses analyzes
 authorisation authorization
 authorisations authorizations
 behaviour behavior
+centralise centralize
+centralised centralized
 centre center
 colour color
 colours colors
