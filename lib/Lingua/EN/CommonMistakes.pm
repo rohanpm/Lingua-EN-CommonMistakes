@@ -398,7 +398,6 @@ analagous analogous
 analizer analyzer
 analogue analog
 analysator analyzer
-analyse analyze
 anfer after
 angainst against
 ang and
@@ -2333,6 +2332,7 @@ shouldnt shouldn't
 :british
 acknowledgment acknowledgement
 acknowledgments acknowledgements
+analyze analyse
 analyzes analyses
 behavior behaviour
 center centre
@@ -2392,6 +2392,7 @@ visualize visualise
 :american
 acknowledgement acknowledgment
 acknowledgements acknowledgments
+analyse analyze
 analyses analyzes
 authorisation authorization
 authorisations authorizations
