@@ -1051,6 +1051,7 @@ experienceing experiencing
 expeted expected
 expet expect
 expets expects
+explaination explanation
 explicitely explicitly
 explicity explicitly
 explict explicit
