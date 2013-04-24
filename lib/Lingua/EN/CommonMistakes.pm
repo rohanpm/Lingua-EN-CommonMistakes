@@ -778,6 +778,7 @@ defauls defaults
 defered deferred
 definate definite
 definately definitely
+defination definition
 defininition definition
 defininitions definitions
 defintion definition
