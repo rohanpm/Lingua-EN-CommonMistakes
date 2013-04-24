@@ -569,6 +569,7 @@ cataloges catalogs
 catalogue catalog
 catalogues catalogs
 catched caught
+cencel cancel
 ceneration generation
 centralise centralize
 centralised centralized
